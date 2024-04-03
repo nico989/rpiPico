@@ -1,0 +1,8 @@
+REM Rick Roll for Windows
+DELAY 3000
+REM Open the Run dialog
+GUI r
+DELAY 1000
+REM Launch Rick Roll with edge
+STRING msedge https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER

@@ -1,0 +1,1 @@
+secrets = { 'ssid' : "RPIPico", 'password' : "raspberrypicopasswordsecretforaccesspoint" }
