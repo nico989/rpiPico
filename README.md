@@ -21,6 +21,9 @@
     - keycode_win_sw.py
 4. Copy payload.dd in the RPI Pico base folder to open Rick Roll Youtube Video when the Raspberry Pi Pico is plugged.
 
-## Reset RPI Pico
+## Reset Raspberry Pi Pico
 1. Plug the RPI Pico in the computer pressing the bootsel button.
 2. Copy the flash_nuke.uf2 file in the RPI Pico base folder.
+
+## Credits
+- pico-ducky: https://github.com/dbisu/pico-ducky
